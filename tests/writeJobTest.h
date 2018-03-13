@@ -1,5 +1,3 @@
-#pragma once
-
 #include <QtTest/QtTest>
 
 class WriteJobTest: public QObject
